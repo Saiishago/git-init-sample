@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../08-Stu_Attributes"
+		},
+		{
+			"path": "../../10-Stu_CSS-color"
+		},
+		{
+			"path": "../../12-Stu_CSS-units-font"
+		},
+		{
+			"path": "../../14-Stu_CSS-selectors"
+		},
+		{
+			"path": "../../16-Stu_HTML-display"
+		},
+		{
+			"path": "../../18-Stu_CSS-box-model"
+		},
+		{
+			"path": "../../20-Stu_CSS-positioning"
+		},
+		{
+			"path": "../../21-Evr_Git-Guide"
+		}
+	],
+	"settings": {}
+}
